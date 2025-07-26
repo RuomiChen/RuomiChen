@@ -8,9 +8,9 @@
 
 
 
-|   主&emsp;页   | <https://www.rmcyyds.top/>                                      |
+|   主&emsp;页   | <https://czi.rmcyyds.top/>                                      |
 | :------------: | :------------------------------------------------------- |
-| **博&emsp;客** | **<https://czi.rmcyyds.top/>**  
+| **博&emsp;客** | **<https://czi.rmcyyds.top/rmc-blog>**  
 | **静态响应式咖啡网站** | **<https://www.rmcyyds.top/coffee-web/>**
 |**在线免费税率网站**| **<https://www.rmcyyds.top/currency-converter/>** 
 |**手机归属地查询**| **<https://www.rmcyyds.top/Phone-Search/>** 
