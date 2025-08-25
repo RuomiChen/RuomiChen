@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm rmc-cf</h1>
+<h1 align="center">Hi there! 👋 I'm RuomiChen</h1>
 
 
 <pre>
@@ -6,9 +6,7 @@
                                                                                     -- 加油💪
 </pre>
 
-
-
-|   主&emsp;页   | <https://czi.rmcyyds.top/>                                      |
+                               |
 
 ## Languages and Tools
 
