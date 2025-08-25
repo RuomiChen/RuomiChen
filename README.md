@@ -6,7 +6,6 @@
                                                                                     -- 加油💪
 </pre>
 
-                               |
 
 ## Languages and Tools
 
