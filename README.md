@@ -9,27 +9,6 @@
 
 
 |   主&emsp;页   | <https://czi.rmcyyds.top/>                                      |
-| :------------: | :------------------------------------------------------- |
-| **博&emsp;客** | **<https://czi.rmcyyds.top/rmc-blog>**  
-| **静态响应式咖啡网站** | **<https://www.rmcyyds.top/coffee-web/>**
-|**在线免费税率网站**| **<https://www.rmcyyds.top/currency-converter/>** 
-|**手机归属地查询**| **<https://www.rmcyyds.top/Phone-Search/>** 
-|**根据生日计算生肖星座**| **<https://www.rmcyyds.top/Age-Calculation/>** 
-
-
-
-
-
-## About Me
-
-- 🔭 I’m currently working on various projects across different domains.
-- 🌱 I’m currently learning new technologies and frameworks to enhance my skills.
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
-- 🤔 I’m looking for help with complex coding challenges and best practices.
-- 💬 Ask me about web development, software engineering, and new tech trends.
-- 📫 How to reach me: [rmcyyds@gmail.com](mailto:rmcyyds@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new places and cultures.
 
 ## Languages and Tools
 
