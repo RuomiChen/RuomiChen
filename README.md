@@ -40,8 +40,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rmc-cf/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/rmc-cf"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=QQ&logoColor=white" alt="QQ" /></a>
-  <a href="https://space.bilibili.com/381743354?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Bilibili" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-QQ-1DA1F2?logo=QQ&logoColor=white" alt="QQ" /></a>
+  <a href="https://space.bilibili.com/381743354?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/-Bilibili-1DA1F2?logo=bilibili&logoColor=white" alt="Bilibili" /></a>
   
 </p>
 
